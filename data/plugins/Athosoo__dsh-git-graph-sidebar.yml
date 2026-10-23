@@ -1,0 +1,8 @@
+url: https://github.com/Athosoo/dsh-git-graph-sidebar
+name: Athosoo/dsh-git-graph-sidebar
+category: git
+tarball: https://github.com/Athosoo/dsh-git-graph-sidebar/releases/latest/download/dsh-git-graph-sidebar.tgz
+icon: https://raw.githubusercontent.com/Athosoo/dsh-git-graph-sidebar/main/assets/icon-180.png
+description:
+  en: 'Read-only multi-repository graph tab for dsh-better-sidebar: it discovers every Git repository below the workspace directory, lists them as a tree with branch, head, dirty-file and conflict counts, and draws the selected repository commit graph as an SVG lane canvas with curved cross-lane edges, merge diamonds, ref badges, row zoom and a pinned commit card. It can also bootstrap a Git conventions document for a repository: a brand-new repository (no commits yet) gets an empty scaffold and a picker with six proven frameworks (Conventional Commits, GitHub Flow, Git Flow, Trunk-based, Conventional Branch, GitLab Flow); the only file the tab writes. The composer branch chip, interactive graph dialog and worktree manager of the upstream plugin are included.'
+  zh: '为 dsh-better-sidebar 提供的只读多级仓库图谱页：发现工作区目录下每个 Git 仓库，按树状列出并显示分支、head、脏文件与冲突数，把选中仓库的提交图渲染成 SVG 泳道画布（跨泳道曲线、合并菱形、ref 徽章、行缩放与可固定的提交详情卡）。还能为一个仓库架起 Git 规范文档：全新仓库（尚无提交）会自动得到空壳文档与六套经过验证的框架选择器（约定式提交、GitHub Flow、Git Flow、主干开发、约定式分支、GitLab Flow），这也是本页唯一会写入的文件。同时包含上游插件的输入框分支徽章、交互式提交图对话框与 worktree 管理器。'
